@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1 className='text-red-500'>Lets build a AWESOME Web3 portfolio</h1>
+      <h1 class>Lets build a AWESOME portfolio</h1>
     </div>
   )
 }
